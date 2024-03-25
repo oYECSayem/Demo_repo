@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="MidAutumn23.jnlp">
+  <information>
+    <title>MidAutumn23</title>
+    <vendor>Asus</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="MidAutumn23.jar" size="9040" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="mainpkg.Main"  name="MidAutumn23" />
+  <update check="always"/>
+</jnlp>
